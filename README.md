@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Manu Prakash here</h1>
+<h1 align="center">Hola, MUNI KAVYAKUMAR here</h1>
 <h3 align="center"> Make Your Brain like a Machine and Machine like a brain.📚</h3>
 
 
@@ -28,7 +28,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=manu-prakash-choudhary&show_icons=true&locale=en&count_private=true&theme=onedark" alt="manu-prakash-choudhary" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=manu-prakash-choudhary&show_icons=true&locale=en&count_private=true&theme=onedark" alt="kavy-04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-prakash-choudhary&show_icons=true&locale=en&count_private=true&theme=onedark&include_all_commits=true&layout=donut" alt="manu-prakash-choudhary" /></p>
 
