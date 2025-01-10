@@ -1,4 +1,4 @@
-<h1 align="center">Hola, MUNI KAVYAKUMAR here</h1>
+<h1 align="center">Hello, MUNI KAVYAKUMAR here</h1>
 <h3 align="center"> Make Your Brain like a Machine and Machine like a brain.📚</h3>
 
 
